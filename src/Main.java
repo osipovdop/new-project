@@ -3,5 +3,6 @@ public class Main {
         Animal animal = new Animal();
 
         int[] massiv = {1,2,5,3,212,53,0,32,1,54,8};
+        int x = 88;
     }
 }
