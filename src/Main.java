@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Animal animal = new Animal();
-        int[] massiv = {4, 42, 324, 66, 32, 236, 323, 1, 0};
 
+        int[] massiv = {1,2,5,3,212,53,0,32,1,54,8};
     }
 }
